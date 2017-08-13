@@ -1,0 +1,16 @@
+Site No.,Longitude,Latitude,ELEV (m),GHI (kWh/m2),DNI (kWh/m2),Municipality,Province
+1,28.4478,-32.5463,135,"1,616","1,571",Mnquma,Eastern Cape
+2,27.2404,-32.0334,911,"1,853","2,108",Lukanji,Eastern Cape
+3,30.0489,-31.2195,93,"1,617","1,571",Mbizana,Eastern Cape
+4,28.7537,-30.1607,"1,623","1,946","2,239",Matatiele,Eastern Cape
+5,30.6242,-28.5823,972,"1,848","1,848",Nqutu,KwaZulu-Natal
+6,24.4027,-28.4893,"1,042","2,139","2,602",Dikgatlong,Northern Cape
+7,31.8491,-27.6788,515,"1,720","1,590",Nongoma,KwaZulu-Natal
+8,30.3709,-27.3417,"1,403","1,853","1,879",Emadlangeni,KwaZulu-Natal
+9,23.3837,-26.9544,"1,186","2,228","2,736",Joe Morolong,Northern Cape
+10,32.8668,-26.8789,18,"1,782","1,638",Umhlabuyalingana,KwaZulu-Natal
+11,30.6971,-25.663,"1,457","1,820","1,761",Mbombela,Mpumalanga
+12,29.2591,-25.4307,"1,191","2,037","2,083",Thembisile,Mpumalanga
+13,27.3145,-25.3841,"1,065","2,084","2,203",Rustenburg,North West
+14,30.4482,-24.3873,"1,139","1,936","1,900",Greater Tubatse,Limpopo
+15,30.0786,-22.6991,593,"2,007","2,006",Musina,Limpopo
