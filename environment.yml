@@ -19,7 +19,6 @@ dependencies:
 - requests=2.14.2=py36_0
 - six=1.10.0=py36_0
 - traitlets=4.3.2=py36_0
-- vs2015_runtime=14.0.25420=0
 - wheel=0.29.0=py36_0
 - pip:
   - colorlover==0.2.1
