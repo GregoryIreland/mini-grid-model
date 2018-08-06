@@ -10,7 +10,14 @@
 
 <img src="http://imgur.com/VmLwNpP.png">
 
-### Essential Core Mini-Grid Model Code and Visualisations:
+#### Paper Published: http://bit.ly/GIrelandDUE2017Paper
+#### Python Model Notebook: http://bit.ly/ERCMini-GridModelJupyterNotebook
+#### South African DST Application - Project Report: http://bit.ly/ERC-DST-Mini-Grids-Report
+#### Github Repository: https://github.com/GregoryIreland/mini-grid-model
+#### Masters Dissertation (passed with distinction): http://bit.ly/GIrelandMScDisseration2017
+
+
+### Essential Core Mini-Grid Model Code and Visualisations in Jupyter Notebook coding implementation:
 
 1. Python & Cython Boilerplate Library Imports, Connection to Plotly Servers & Offline Jupyter Notebook Initialization</h4>
 2. Solar Irradiation Data Capture with Transposition Model and Power Output Model
