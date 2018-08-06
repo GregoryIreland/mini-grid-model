@@ -1,4 +1,6 @@
-# Mini-Grid Simulation Model for Isolated Community Energy System Modelling: Python Jupyter Notebook
+# TEMPO - Techno-Economic Mini-Grid Planning and Optimization
+##  a flexible open-source modelling framework for evaluating hybrid mini-grid applicablity, costs and performance in variable contexts
+
 #### Created by: 
 ### Energy Research Centre - University of Cape Town (ERC-UCT) and the South African National Energy Development Institute (SANEDI) - for - the South African Department of Science and Technology (DST)
 
